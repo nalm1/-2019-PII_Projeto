@@ -1,0 +1,15 @@
+C:\Users\nunoa\source\repos\Projeto_PII_noCanvas\Projeto_PII_noCanvas\obj\Debug\Projeto_PII_noCanvas.csprojAssemblyReference.cache
+C:\Users\nunoa\source\repos\Projeto_PII_noCanvas\Projeto_PII_noCanvas\obj\Debug\MainWindow.g.cs
+C:\Users\nunoa\source\repos\Projeto_PII_noCanvas\Projeto_PII_noCanvas\obj\Debug\App.g.cs
+C:\Users\nunoa\source\repos\Projeto_PII_noCanvas\Projeto_PII_noCanvas\obj\Debug\Projeto_PII_noCanvas_MarkupCompile.cache
+C:\Users\nunoa\source\repos\Projeto_PII_noCanvas\Projeto_PII_noCanvas\obj\Debug\Projeto_PII_noCanvas_MarkupCompile.lref
+C:\Users\nunoa\source\repos\Projeto_PII_noCanvas\Projeto_PII_noCanvas\bin\Debug\Projeto_PII_noCanvas.exe.config
+C:\Users\nunoa\source\repos\Projeto_PII_noCanvas\Projeto_PII_noCanvas\bin\Debug\Projeto_PII_noCanvas.exe
+C:\Users\nunoa\source\repos\Projeto_PII_noCanvas\Projeto_PII_noCanvas\bin\Debug\Projeto_PII_noCanvas.pdb
+C:\Users\nunoa\source\repos\Projeto_PII_noCanvas\Projeto_PII_noCanvas\obj\Debug\MainWindow.baml
+C:\Users\nunoa\source\repos\Projeto_PII_noCanvas\Projeto_PII_noCanvas\obj\Debug\Projeto_PII_noCanvas.g.resources
+C:\Users\nunoa\source\repos\Projeto_PII_noCanvas\Projeto_PII_noCanvas\obj\Debug\Projeto_PII_noCanvas.Properties.Resources.resources
+C:\Users\nunoa\source\repos\Projeto_PII_noCanvas\Projeto_PII_noCanvas\obj\Debug\Projeto_PII_noCanvas.csproj.GenerateResource.cache
+C:\Users\nunoa\source\repos\Projeto_PII_noCanvas\Projeto_PII_noCanvas\obj\Debug\Projeto_PII_noCanvas.csproj.CoreCompileInputs.cache
+C:\Users\nunoa\source\repos\Projeto_PII_noCanvas\Projeto_PII_noCanvas\obj\Debug\Projeto_PII_noCanvas.exe
+C:\Users\nunoa\source\repos\Projeto_PII_noCanvas\Projeto_PII_noCanvas\obj\Debug\Projeto_PII_noCanvas.pdb
